@@ -1,16 +1,17 @@
 Day 1
- L Orientation, & Briefing DONE
- L Getting to know other Interns DONE
- L Dividing and grouping the interns DONE
+ L ORIENTATION, & BRIEFING DONE
+ L GETTING TO KNOW OTHER INTERNS DONE
+ L DIVIDING & GROUPING THE INTERNS DONE
 
 Day 2
- L Researching Web Application DONE
- L Researching Task Management System DONE
- L Researching and Brainstorming about Task Management System DONE
+ L RESEARCH WEB APPLICATION DONE
+ L RESEARCH TASK MANAGEMENT SYSTEM DONE
+ L RESEARCH & BRAINSTORM ABOUT TASK MANAGEMENT SYSTEM DONE
 
 Day 3
- L Researching and studying about HTML, CSS, & JavaScript ON GOING
- L Researching and analyzing popular web API's ON GOING
+ L RESEARCH & STUDY ABOUT HTML, CSS, & JAVASCRIPT ON GOING
+ L RESEARCH & ANALYZE USEFUL WEB API's ON GOING
+ L RESEARCH & STUDY GIT AND GITHUB
 
 Day 4
  L --Saturday--
