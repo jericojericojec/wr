@@ -4,7 +4,6 @@ Day 1
  L Dividing and grouping the interns DONE
 
 Day 2
- L Organizing the projects per team DONE
  L Researching Web Application DONE
  L Researching Task Management System DONE
  L Researching and Brainstorming about Task Management System DONE
